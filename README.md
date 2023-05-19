@@ -6,10 +6,11 @@ Flappy Pepe is a fun and addictive game inspired by the classic Flappy Bird, fea
 
 1. Clone the repository or download the source code.
 2. Ensure you have the SDL2 library installed on your system.
-3. Compile the source code using a C++ compiler (e.g., g++).
-   ./make.bat
+3. Compile the source code using a C++ compiler (e.g., g++):
+
+###   ./make.bat
 4. Run the compiled executable.
-   ./FlappyPepe
+###   ./FlappyPepe
 5. Press the spacebar or left mouse button to make Pepe jump and navigate through the pipes.
 
 Enjoy playing Flappy Pepe!
